@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-automation-delayed-trigger",
+  "version": "0.0.1",
+  "description": "Trigger an event after X seconds",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paolotremadio/homebridge-automation-delayed-trigger.git"
+  },
+  "bugs": {
+    "url": "http://github.com/paolotremadio/homebridge-automation-delayed-trigger/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
