@@ -13,7 +13,7 @@ Example config.json:
 
 ```
 
-This accessory will create a fake switch and a fake motion sensors. Turning the switch on will start a timer for X seconds (set by the `delay` config option, in milliseconds). When the timer ends, the sensor will detect a movement and the switch will turn off. Turning off the switch will stop the timer.
+This accessory will create a fake switch and a fake motion sensors. Turning the switch on will start a timer for X seconds (set by the `delay` config option, in milliseconds). When the timer ends, the sensor will detect a movement. Turning off the switch will stop the timer.
 
 # Example: Trigger a scene if the door is left open
 1. Create accessory
